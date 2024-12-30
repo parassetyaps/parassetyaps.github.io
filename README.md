@@ -12,7 +12,7 @@
 <body>
     <header>
         <nav>
-            <div class="logo">Your Name</div>
+            <div class="logo">Paras Setya</div>
             <ul>
                 <li><a href="#about">About Me</a></li>
                 <li><a href="#skills">Skills</a></li>
@@ -24,7 +24,7 @@
 
     <section id="hero">
         <div class="hero-content">
-            <h1>Hi, I'm Your Name</h1>
+            <h1>Hi, I'm Paras</h1>
             <p>A passionate Frontend Developer.</p>
             <a href="#projects" class="btn">View My Work</a>
         </div>
