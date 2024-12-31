@@ -81,7 +81,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Your Name</p>
+        <p>&copy; 2024 Paras Setya</p>
     </footer>
 
     <script src="script.js"></script>
