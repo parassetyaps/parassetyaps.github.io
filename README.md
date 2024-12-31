@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Frontend Developer Portfolio">
-    <title>Paras Setya | Frontend Developer</title>
+    Paras Setya | Frontend Developer
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
