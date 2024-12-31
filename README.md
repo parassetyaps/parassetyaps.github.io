@@ -12,7 +12,7 @@
 <body>
     <header>
         <nav>
-            <div class="logo">Paras Setya</div>
+         
             <ul>
                 <li><a href="#about">About Me</a></li>
                 <li><a href="#skills">Skills</a></li>
